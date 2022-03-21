@@ -1,5 +1,13 @@
 ### Olá, eu sou o Ayrton Barreto 👋
 
+Sou um desenvolvedor de software em constante evolução 🚀
+
+Atualmente focado em BackEnd Java, Ecossistema Spring Boot, Hibernate e JPA.
+
+Também possuo conhecimentos em: HTML e CSS, Java Script, Git e GitHub, MySQL, PostgreSQL e Maven.
+
+Próximos objetivos: Angular, Swagger, Testes e muito mais.
+
 <div>
   <a href="https://github.com/ayrtonbarretodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayrtonbarretodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
