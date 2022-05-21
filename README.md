@@ -4,9 +4,9 @@ Sou um desenvolvedor de software em constante evolução 🚀
 
 Atualmente focado em BackEnd Java, Ecossistema Spring Boot, Hibernate e JPA.
 
-Também possuo conhecimentos em: HTML e CSS, Java Script, Git e GitHub, MySQL, PostgreSQL e Maven.
+Também possuo conhecimentos em: HTML e CSS, Java Script, Git e GitHub, MySQL, PostgreSQL, Maven e Testes Unitários com JUnit.
 
-Próximos objetivos: Angular, Swagger, Testes e muito mais.
+Próximos objetivos: Angular, Swagger.
 
 <div>
   <a href="https://github.com/ayrtonbarretodev">
