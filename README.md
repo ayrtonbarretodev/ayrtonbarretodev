@@ -6,7 +6,7 @@ Atualmente focado em BackEnd Java, Ecossistema Spring Boot, Hibernate e JPA.
 
 Também possuo conhecimentos em: HTML e CSS, Java Script, Git e GitHub, MySQL, PostgreSQL, Maven e Testes Unitários com JUnit.
 
-Próximos objetivos: Angular, Swagger.
+Próximo objetivo: Angular.
 
 <div>
   <a href="https://github.com/ayrtonbarretodev">
